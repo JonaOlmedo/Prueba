@@ -1,0 +1,56 @@
+H2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.table{
+text-align: center;
+width: 85%;
+margin-left: 7%;
+}
+.flag{
+    width: 350px;
+    height: 200px;
+}
+.flag:hover{
+width: 400px;
+height: 225px;
+transition: 1s;
+}
+.bigFlag{
+    margin-left: 3%;
+    margin-right: 3%;
+    float: left; 
+    width: 40%;
+}
+.info{
+    margin-right: 3%;
+    margin-left: 3%;
+    font-size: 15pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.TableSitiosTuristicos{
+    width: 95%;
+    margin-left: 3%;
+}
+.imgTuristicos{
+    width: 300px;
+    height: 150px;
+}
+.imgTuristicos:hover{
+    width: 350px;
+    height: 175px;
+    transition: 0.5s;
+}
+.HistoryPicture{
+    float: right;
+    margin-right: 3%;
+}
+.Historia{
+    margin-right: 3%;
+    margin-left: 3%;
+    font-size: 15pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    width: 45%;
+}
